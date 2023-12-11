@@ -75,11 +75,6 @@ Provide step-by-step instructions on how to install and run your project.
 ### Usage
 Explain how to use the project. Include any necessary commands, user instructions, or examples.
 
-### License
-Specify the license under which your project is released, if applicable.
-
-### Contact Information
-Include your contact information for others to reach you with questions or collaborations.
 
 ---
 
